@@ -1,2 +1,2 @@
 # Syllaber
-parse word to syllables
+parse word to writtenSyllables
